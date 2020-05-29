@@ -1,6 +1,7 @@
 ## Stream Api vs Collection
 
 сравнение скорости выполнения Stream Api и Collection
+
 все примеры для java 8 (1.8.0_151)
 
 #### collect - преобразовать коллекцию в другую коллекцию
